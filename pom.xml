@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.yitu</groupId>
+    <groupId>com.xm</groupId>
     <artifactId>db-quick-connect</artifactId>
     <version>1.0.2</version>
     <packaging>pom</packaging>
